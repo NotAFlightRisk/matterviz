@@ -171,7 +171,7 @@ MatterViz provides extensive customization options through VSCode settings. Acce
 If you encounter any issues with MatterViz, you can use the built-in bug reporting command to collect debug information:
 
 1. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
-2. Run **"Report MatterViz Bug"**
+2. Run **"MatterViz: Report Bug"**
 3. The command will open a new document with detailed debug information including:
    - Your OS and version
    - VSCode/Cursor version
