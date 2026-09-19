@@ -4,7 +4,7 @@
 
 You can compile Svelte components to custom elements and consume them anywhere (React, Vue, plain HTML) via [shadow DOM](https://developer.mozilla.org/docs/Web/API/Web_components/Using_shadow_DOM). This is framework‑agnostic.
 
-- Svelte docs: [Custom elements](https://svelte.dev/docs/custom-elements)
+- Svelte docs: [Custom elements](https://svelte.dev/docs/svelte/custom-elements)
 - React docs: [Using Web Components](https://react.dev/reference/react-dom/components#using-web-components)
 - Vue docs: [Web Components](https://vuejs.org/guide/extras/web-components.html)
 
